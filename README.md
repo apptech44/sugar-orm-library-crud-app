@@ -4,4 +4,7 @@ Sugar ORM is a database persistence library that provides a simple and concise w
 
 #### Depandency 
 
+```xml
 implementation 'com.github.satyan:sugar:1.5'
+
+```
