@@ -1,0 +1,2 @@
+rootProject.name='Sugar Sqlite ORM Crud App'
+include ':app'
